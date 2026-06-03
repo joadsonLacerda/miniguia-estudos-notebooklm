@@ -48,3 +48,4 @@ Simulação de Diagnóstico Organizacional:
 Cálculo e Benchmarking:
 Diferenciação Crítica:
 Revisão Legal e de Segurança:
+link para no notebookllm: https://notebooklm.google.com/notebook/c0e07530-5f15-4fe8-b822-ddb501aad8ad
